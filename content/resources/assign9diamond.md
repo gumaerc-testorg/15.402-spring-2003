@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: 'Case: Diamond Chemicals (A)'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-402-finance-theory-ii-spring-2003/b266149489b37738dc898567084a1645_assign9diamond.pdf
+file: /media/courses/15-402-finance-theory-ii-spring-2003/b266149489b37738dc898567084a1645_assign9diamond.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: assign9diamond.pdf
 uid: b2661494-89b3-7738-dc89-8567084a1645

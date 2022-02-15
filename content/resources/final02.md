@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-402-finance-theory-ii-spring-2003/1b7794a483837216bde34614ff89f51b_final02.pdf
+file: /media/courses/15-402-finance-theory-ii-spring-2003/1b7794a483837216bde34614ff89f51b_final02.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Exams
+parent_type: CourseSection
 resourcetype: Document
 title: final02.pdf
 uid: 1b7794a4-8383-7216-bde3-4614ff89f51b

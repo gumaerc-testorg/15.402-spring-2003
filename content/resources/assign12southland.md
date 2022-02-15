@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: 'Case: The Southland Corporation (A)'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-402-finance-theory-ii-spring-2003/72235622e87ec148d3cffdbe7b03df84_assign12southland.pdf
+file: /media/courses/15-402-finance-theory-ii-spring-2003/72235622e87ec148d3cffdbe7b03df84_assign12southland.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: assign12southland.pdf
 uid: 72235622-e87e-c148-d3cf-fdbe7b03df84
