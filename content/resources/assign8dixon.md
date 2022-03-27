@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 47739ec7-f45f-d12f-fc5e-4ab9950bd1f5
 resourcetype: Document
 title: assign8dixon.pdf
 uid: 55c8326b-0d7f-1948-33de-dde3439886b2

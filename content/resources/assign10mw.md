@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 47739ec7-f45f-d12f-fc5e-4ab9950bd1f5
 resourcetype: Document
 title: assign10mw.pdf
 uid: 7832eaa4-9dbc-ca07-f5d6-9e86492ad437

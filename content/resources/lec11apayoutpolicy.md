@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: ab65a0bf-cbad-03b1-0785-1cb9d6125f9b
 resourcetype: Document
 title: lec11apayoutpolicy.pdf
 uid: 02138a4d-70fb-48f2-af68-0c82548dca8d

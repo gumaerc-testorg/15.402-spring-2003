@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: ab65a0bf-cbad-03b1-0785-1cb9d6125f9b
 resourcetype: Document
 title: lec21bvaluingcompanies.pdf
 uid: 345f9d39-b33d-8e28-221c-96c984acaeca

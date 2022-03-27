@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 47739ec7-f45f-d12f-fc5e-4ab9950bd1f5
 resourcetype: Document
 title: assign5mci.pdf
 uid: 558b674c-1dab-0826-ee2c-0926eee16a56

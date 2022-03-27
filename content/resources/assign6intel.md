@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 47739ec7-f45f-d12f-fc5e-4ab9950bd1f5
 resourcetype: Document
 title: assign6intel.pdf
 uid: 38e8119c-4632-4ccd-3b1c-7ff65a919f48

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 89791e69-688e-a1d3-0bae-6c3d29a1902b
 resourcetype: Document
 title: practicemidterm.pdf
 uid: 606912b6-f447-2fdd-4faa-d56053398e10
