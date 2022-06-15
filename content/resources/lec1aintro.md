@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture 1 Introduction - Section A
-file: /media/courses/15-402-finance-theory-ii-spring-2003/8526cf0d6d93dba01b0729bfd513ad77_lec1aintro.pdf
+file: /courses/15-402-finance-theory-ii-spring-2003/8526cf0d6d93dba01b0729bfd513ad77_lec1aintro.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -13,3 +13,5 @@ resourcetype: Document
 title: lec1aintro.pdf
 uid: 8526cf0d-6d93-dba0-1b07-29bfd513ad77
 ---
+Lecture 1 Introduction - Section A
+
