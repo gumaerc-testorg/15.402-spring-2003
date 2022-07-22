@@ -5,6 +5,7 @@ file: /courses/15-402-finance-theory-ii-spring-2003/7832eaa49dbcca07f5d69e86492a
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: assign10mw.pdf
 uid: 7832eaa4-9dbc-ca07-f5d6-9e86492ad437
 ---
 Case: MW Petroleum Corporation (A)
-

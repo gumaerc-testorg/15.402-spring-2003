@@ -5,6 +5,7 @@ file: /courses/15-402-finance-theory-ii-spring-2003/b4067de73d21d615ee8a530696d3
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection

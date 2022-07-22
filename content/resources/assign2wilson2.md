@@ -5,6 +5,7 @@ file: /courses/15-402-finance-theory-ii-spring-2003/d94393a5f48e4467a9e321ca2b39
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: assign2wilson2.pdf
 uid: d94393a5-f48e-4467-a9e3-21ca2b394ba0
 ---
 Case: Wilson Lumber 2
-
