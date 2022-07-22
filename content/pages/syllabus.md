@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: ''
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 9a9f42d9-48d7-f546-7db8-1b1b5d2f3482
 ---
@@ -119,7 +122,7 @@ Class Participation
 Further Details
 ---------------
 
-This course is designed to be time-consuming and challenging. The course is a combination of lectures and cases. Unless you have the time to thoroughly prepare the cases, we strongly recommend that you not take the course. Each case will come with [guideline questions]({{< baseurl >}}/pages/assignments). Students are required to submit a two-page memorandum on the cases. Students are required to work in teams of no more than five. Teams with less than three people are strongly discouraged. Only one memorandum need be handed in for a given group. You have the option of not handing in two cases during the semester. There are four required cases: Wilson Lumber, MCI Communications, Dixon, and Ameritrade. Note that Wilson Lumber 1 and 2 count as one case.
+This course is designed to be time-consuming and challenging. The course is a combination of lectures and cases. Unless you have the time to thoroughly prepare the cases, we strongly recommend that you not take the course. Each case will come with {{% resource_link 47739ec7-f45f-d12f-fc5e-4ab9950bd1f5 "guideline questions" %}}. Students are required to submit a two-page memorandum on the cases. Students are required to work in teams of no more than five. Teams with less than three people are strongly discouraged. Only one memorandum need be handed in for a given group. You have the option of not handing in two cases during the semester. There are four required cases: Wilson Lumber, MCI Communications, Dixon, and Ameritrade. Note that Wilson Lumber 1 and 2 count as one case.
 
 The memorandums should be typed and double-spaced. They should be written as if your were presenting it to your business colleagues. The two-page limit is for text only. You may attach as many numerical calculations as you wish. Memorandums will not be accepted after the class has met.
 

@@ -1,10 +1,14 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 47739ec7-f45f-d12f-fc5e-4ab9950bd1f5
 ---
 
-Cases marked with a star (\*) are required. For full bibliographic citations of the cases, see the [readings]({{< baseurl >}}/pages/readings) section.
+Cases marked with a star (\*) are required. For full bibliographic citations of the cases, see the {{% resource_link 31f438d6-4125-f862-5316-47e729cf4149 "readings" %}} section.
 
 Part I: Financing
 -----------------
@@ -33,7 +37,7 @@ ASSIGNMENTS
 Case: Wilson Lumber 1\*
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/assign1wilson1))
+({{% resource_link 7bcbe517-bdfe-be1e-9faa-f2e5564af349 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -45,7 +49,7 @@ Case: Wilson Lumber 1\*
 Case: Wilson Lumber 2\*
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/assign2wilson2))
+({{% resource_link d94393a5-f48e-4467-a9e3-21ca2b394ba0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -57,7 +61,7 @@ Case: Wilson Lumber 2\*
 Case: Debt Policy at UST Inc.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/assign3ustdebt))
+({{% resource_link 21d63d17-ce99-e497-0196-5558905fba51 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -69,7 +73,7 @@ Case: Debt Policy at UST Inc.
 Case: Massey Ferguson, 1980
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/assign4masseyferg))
+({{% resource_link 6d30889d-76df-cabe-7ef4-5fd2c806de96 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -81,7 +85,7 @@ Case: Massey Ferguson, 1980
 Case: MCI Communications Corp., 1983\*
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/assign5mci))
+({{% resource_link 558b674c-1dab-0826-ee2c-0926eee16a56 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -93,7 +97,7 @@ Case: MCI Communications Corp., 1983\*
 Case: Intel Corporation, 1992
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/assign6intel))
+({{% resource_link 38e8119c-4632-4ccd-3b1c-7ff65a919f48 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -127,7 +131,7 @@ ASSIGNMENTS
 Case: Cost of Capital at Ameritrade\*
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/assign7ameritrade))
+({{% resource_link 3a4dbf5c-c066-2a32-7720-e0c564bff919 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -139,7 +143,7 @@ Case: Cost of Capital at Ameritrade\*
 Case: Dixon Corporation 1\*
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/assign8dixon))
+({{% resource_link 55c8326b-0d7f-1948-33de-dde3439886b2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -151,7 +155,7 @@ Case: Dixon Corporation 1\*
 Case: Dixon Corporation 2
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/assign8dixon))
+({{% resource_link 55c8326b-0d7f-1948-33de-dde3439886b2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -163,7 +167,7 @@ Case: Dixon Corporation 2
 Case: Diamond Chemicals (A)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/assign9diamond))
+({{% resource_link b2661494-89b3-7738-dc89-8567084a1645 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -175,7 +179,7 @@ Case: Diamond Chemicals (A)
 Case: MW Petroleum Corporation (A)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/assign10mw))
+({{% resource_link 7832eaa4-9dbc-ca07-f5d6-9e86492ad437 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -187,7 +191,7 @@ Case: MW Petroleum Corporation (A)
 Case: Cooper Industries, Inc.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/assign11cooper))
+({{% resource_link 03599c72-fb1f-595f-20ff-64777bca5d14 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -199,7 +203,7 @@ Case: Cooper Industries, Inc.
 Case: The Southland Corporation (A)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/assign12southland))
+({{% resource_link 72235622-e87e-c148-d3cf-fdbe7b03df84 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
