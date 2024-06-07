@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/15-402-finance-theory-ii-spring-2003/606912b6f4472fdd4faad56053398e10_practicemidterm.pdf
+file_size: 24991
 file_type: application/pdf
 learning_resource_types:
 - Exams
