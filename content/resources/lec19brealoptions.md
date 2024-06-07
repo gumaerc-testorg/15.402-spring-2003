@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture 19 - Section B
 file: /courses/15-402-finance-theory-ii-spring-2003/08859528c9762f0b55cc78d7e9d3b3ca_lec19brealoptions.pdf
+file_size: 343115
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

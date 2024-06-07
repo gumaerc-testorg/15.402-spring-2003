@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture 4 - Section A
 file: /courses/15-402-finance-theory-ii-spring-2003/bee4172645911c673bea6f9d8641f541_lec4acapitalstructure1.pdf
+file_size: 98504
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
