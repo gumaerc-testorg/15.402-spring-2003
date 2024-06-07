@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Case: Wilson Lumber 1'
 file: /courses/15-402-finance-theory-ii-spring-2003/7bcbe517bdfebe1e9faaf2e5564af349_assign1wilson1.pdf
+file_size: 69888
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture 21 - Section B
 file: /courses/15-402-finance-theory-ii-spring-2003/345f9d39b33d8e28221c96c984acaeca_lec21bvaluingcompanies.pdf
+file_size: 238926
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Case: Massey Ferguson, 1980'
 file: /courses/15-402-finance-theory-ii-spring-2003/6d30889d76dfcabe7ef45fd2c806de96_assign4masseyferg.pdf
+file_size: 75578
 file_type: application/pdf
 learning_resource_types:
 - Assignments

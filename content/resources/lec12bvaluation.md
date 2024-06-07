@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture 12 - Section B
 file: /courses/15-402-finance-theory-ii-spring-2003/fd443fb1021a6c542389d1c5b4425961_lec12bvaluation.pdf
+file_size: 231970
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
