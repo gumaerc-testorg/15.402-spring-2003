@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Case: The Southland Corporation (A)'
-file: /courses/15-402-finance-theory-ii-spring-2003/72235622e87ec148d3cffdbe7b03df84_assign12southland.pdf
+file: /ol-ocw-studio-app/courses/15-402-finance-theory-ii-spring-2003/72235622e87ec148d3cffdbe7b03df84_assign12southland.pdf
 file_size: 81274
 file_type: application/pdf
 learning_resource_types:
