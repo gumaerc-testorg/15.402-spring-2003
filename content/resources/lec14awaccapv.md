@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture 14 - Section A
-file: /courses/15-402-finance-theory-ii-spring-2003/51227cf624ebb0b4043c743d84e1335d_lec14awaccapv.pdf
+file: /ol-ocw-studio-app/courses/15-402-finance-theory-ii-spring-2003/51227cf624ebb0b4043c743d84e1335d_lec14awaccapv.pdf
 file_size: 101751
 file_type: application/pdf
 learning_resource_types:

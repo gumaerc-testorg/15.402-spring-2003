@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Case: Diamond Chemicals (A)'
-file: /courses/15-402-finance-theory-ii-spring-2003/b266149489b37738dc898567084a1645_assign9diamond.pdf
+file: /ol-ocw-studio-app/courses/15-402-finance-theory-ii-spring-2003/b266149489b37738dc898567084a1645_assign9diamond.pdf
 file_size: 13755
 file_type: application/pdf
 learning_resource_types:
