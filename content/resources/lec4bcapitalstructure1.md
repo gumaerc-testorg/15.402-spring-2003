@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture 4 - Section B
-file: /ol-ocw-studio-app/courses/15-402-finance-theory-ii-spring-2003/9febbe73939f812af3f3ab2701a8dff7_lec4bcapitalstructure1.pdf
+file: /courses/15-402-finance-theory-ii-spring-2003/9febbe73939f812af3f3ab2701a8dff7_lec4bcapitalstructure1.pdf
 file_size: 340879
 file_type: application/pdf
 learning_resource_types:

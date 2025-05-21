@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Case: MW Petroleum Corporation (A)'
-file: /ol-ocw-studio-app/courses/15-402-finance-theory-ii-spring-2003/7832eaa49dbcca07f5d69e86492ad437_assign10mw.pdf
+file: /courses/15-402-finance-theory-ii-spring-2003/7832eaa49dbcca07f5d69e86492ad437_assign10mw.pdf
 file_size: 23442
 file_type: application/pdf
 learning_resource_types:
