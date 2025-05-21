@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture 21 - Section A
-file: /ol-ocw-studio-app/courses/15-402-finance-theory-ii-spring-2003/5523ae27fa193d7409079ed210e66e56_lec21avaluingcompanies.pdf
+file: /courses/15-402-finance-theory-ii-spring-2003/5523ae27fa193d7409079ed210e66e56_lec21avaluingcompanies.pdf
 file_size: 91965
 file_type: application/pdf
 learning_resource_types:
