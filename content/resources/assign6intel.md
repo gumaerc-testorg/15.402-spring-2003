@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Case: Intel Corporation, 1992'
-file: /courses/15-402-finance-theory-ii-spring-2003/38e8119c46324ccd3b1c7ff65a919f48_assign6intel.pdf
+file: /ol-ocw-studio-app/courses/15-402-finance-theory-ii-spring-2003/38e8119c46324ccd3b1c7ff65a919f48_assign6intel.pdf
 file_size: 64834
 file_type: application/pdf
 learning_resource_types:

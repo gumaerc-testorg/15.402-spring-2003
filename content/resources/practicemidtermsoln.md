@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/15-402-finance-theory-ii-spring-2003/b4067de73d21d615ee8a530696d3ddd7_practicemidtermsoln.pdf
+file: /ol-ocw-studio-app/courses/15-402-finance-theory-ii-spring-2003/b4067de73d21d615ee8a530696d3ddd7_practicemidtermsoln.pdf
 file_size: 37197
 file_type: application/pdf
 learning_resource_types:
